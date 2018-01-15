@@ -6,7 +6,7 @@ pipelines:
     # setting materials
     materials:
       app:
-        git: https://tanny619:000919rainbow@github.com/Tanny619/pipelines.git
+        git: https://tanny619:000919rainbow@github.com/hongqi-piaopiao/mst-user-service.git
         branch: master
     # setting stages
     stages:
